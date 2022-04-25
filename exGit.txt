@@ -1,0 +1,9 @@
+Fazendo exercicios da aula de front end usando comandos
+
+git clone
+
+git add
+
+git commit
+
+git push
