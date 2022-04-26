@@ -7,7 +7,7 @@ body {
 }
 
 div {
-    background-color:lightsalmon;
+    background-color: #8a2be2;
     padding: 30px;
     display: flex;
     justify-content: center;
@@ -39,10 +39,10 @@ th, td {
     padding: 5px;
 }
 th {
-    background-color: aqua;
+    background-color: #66cc66;
 }
 td {
-    background-color: white;
+    background-color: #ededed;
     text-align: center;
 }
 
