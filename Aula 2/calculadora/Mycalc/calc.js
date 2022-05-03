@@ -1,4 +1,3 @@
-/*
 const numberButtons = document.querySelectorAll("[data-number]");
 const operationButtons = document.querySelectorAll("[data-operator]");
 const equalsButton = document.querySelector("[data-equals]");
@@ -143,4 +142,3 @@ deleteButton.addEventListener("click", () => {
   calculator.delete();
   calculator.updateDisplay();
 });
-*/
